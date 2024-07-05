@@ -14,7 +14,7 @@ This project is a responsive clone of the Nike landing page, built using React.j
 
 ## Demo
 
-Check out the live demo of the app [here](https://nike-ui-clone-bay.vercel.app/).
+Check out the live demo of the app [here](https://nike-landing-page-alpha-nine.vercel.app/).
 
 ## Features
 
