@@ -1,4 +1,4 @@
-# Nike Landing Page Clone
+# Nike Landing Page
 
 ## Overview
 
